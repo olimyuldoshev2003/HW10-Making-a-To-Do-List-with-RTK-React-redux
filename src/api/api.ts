@@ -9,3 +9,4 @@ export const dataApi = createApi({
   }),
 });
 
+export const {useGetDataQuery} = dataApi
